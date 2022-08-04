@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Cassio Santos
   🏫 Graduando 4° Periodo Analise e desenvolvimento de Sistemas (Estacio)
 
-- 🔭 Hj trabalho com front-end
-- 🌱 Interessado em HTML, CSS e JS
+- 🔭 Front-end
+- 🌱 Atraído por HTML, CSS e JS
 - 🤔 Melhorar e aprender sempre
 - 📫 Contate-me no email: cassio.anad@gmail.com
 - 😄 Pronouns:Ele/Dele...
@@ -27,5 +27,5 @@
 <div> 
   <a href="https://instagram.com/cassiobensantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cassio.anad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/Cassio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
