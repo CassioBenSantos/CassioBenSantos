@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Cassio Santos
-  🏫 Graduando 4° Periodo Análise e desenvolvimento de Sistemas (Estacio)
+  🏫 Graduado em Análise e desenvolvimento de Sistemas 
 
 - 🔭 Front-end
 - 🌱 Atraído por HTML, CSS e JS
