@@ -2,7 +2,7 @@
   🏫 Graduado em Análise e desenvolvimento de Sistemas 
 
 - 🔭 Desenvolver e aprender 
-- 🌱 Atraído por ("HTML/CSS") + ("JS/C#")
+- 🌱 Atraído =("HTML/CSS") + ("JS/C#");
 - 🤔 Melhorar e aprender sempre
 - 📫 Contate-me no email: cassio.anad@gmail.com
 
