@@ -1,11 +1,11 @@
 ## Olá, Eu sou o Cassio Santos
   🏫 Graduado em Análise e desenvolvimento de Sistemas 
 
-- 🔭 Front-end
-- 🌱 Atraído por HTML, CSS e JS
+- 🔭 Desenvolver e aprender 
+- 🌱 Atraído por ("HTML/CSS") + ("JS/C#")
 - 🤔 Melhorar e aprender sempre
 - 📫 Contate-me no email: cassio.anad@gmail.com
-- 😄 Pronouns:Ele/Dele...
+
 
 <div align="center">
   <a href="https://github.com/CassioBenSantos">
